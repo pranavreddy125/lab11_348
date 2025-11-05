@@ -1,3 +1,9 @@
+/*
+Pranav Reddy
+main.cpp
+Lab 11 348
+Runs program: reads input, performs matrix operations, and displays answer
+*/
 #include "Matrix.h" //include Matrix.h
 
 int main() {

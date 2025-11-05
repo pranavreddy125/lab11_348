@@ -1,4 +1,7 @@
 /*
+Pranav Reddy
+Matrix.h
+Lab 11 348
 Telling cpp what the Matrix obj looks like and what functions it has
 */
 #ifndef MATRIX_H //header guards

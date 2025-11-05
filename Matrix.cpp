@@ -1,3 +1,10 @@
+/*
+Pranav Reddy
+Matrix.cpp
+Lab 11 348
+Implements Matrix class methods, memory handling, and operator overloading
+*/
+
 #include "Matrix.h" //getting matrix.h
 
 //default construct
